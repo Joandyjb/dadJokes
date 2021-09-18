@@ -1,3 +1,8 @@
+# Project Description
+Using the Dad Jokes API to render joke on page when user clicks on button. User also has ability to vote up/down jokes. Jokes will also be listed in order from most votes to least and changes instantly upon the user request.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
